@@ -1,3 +1,7 @@
 .nav-bar{
 color: aliceblue;
 }
+.carrosseltamanho{
+    max-width: 252px;
+    max-height: 165px;
+}
