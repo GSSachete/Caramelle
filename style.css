@@ -1,7 +1,21 @@
+body{
+    background-color: #F9E2AF;
+}
 .nav-bar{
-color: aliceblue;
+color: rgb(24, 74, 119);
 }
 .carrosseltamanho{
     max-width: 252px;
     max-height: 165px;
+}
+.footer{
+    background-color: #f0a91d;
+}
+footer a {
+    color: #000 !important; /* Força a cor preta */
+    text-decoration: none;
+}
+.footer .text-body-emphasis {
+    margin-top: 20px;
+    font-size: 3rem; /* Define o tamanho da fonte para 1.5 vezes o tamanho padrão */
 }
