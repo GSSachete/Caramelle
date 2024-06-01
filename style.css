@@ -19,3 +19,6 @@ footer a {
     margin-top: 20px;
     font-size: 3rem; /* Define o tamanho da fonte para 1.5 vezes o tamanho padrão */
 }
+.img-fluid {
+    margin-left: 20%;
+}
